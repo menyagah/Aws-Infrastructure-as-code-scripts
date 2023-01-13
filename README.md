@@ -2,6 +2,9 @@
 
 - This is an automated script that helps in the deployment of an application on the AWS server.
 - This was a solo project. The project uses yaml and json files.
+- The diagram below is a visual representation of the network infrastructure that has been translated into code.
+
+![networking infrastructure](https://user-images.githubusercontent.com/24241962/212282009-79de0f9b-992b-4f30-ac2b-674ca01bbeb8.png)
 
 ## Project Url
 
